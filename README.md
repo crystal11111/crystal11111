@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Crystal Cho
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science at University of Alberta
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact- crystal031230@gmail.com
+- 🌱 I’m currently learning python, C, C++
+- 💞️ I’m looking
+- 📫 Contact via 
 
 <!---
 crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
