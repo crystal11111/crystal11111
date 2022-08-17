@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Crystal Cho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python, C, C++
-- 💞️ I’m looking
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python, C, C++ and Java
+- 💞️ I’m looking for more 
 - 📫 Contact via 
 
 <!---
