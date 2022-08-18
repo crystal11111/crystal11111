@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python, C, C++ and Java
 - 💞️ I’m looking for more 
-- 📫 Contact via 
+- 📫 Contact via soojeon1@ualberta.ca
 
 <!---
 crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
