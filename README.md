@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Crystal Cho
+- 👋 Hi, I’m Soojeong(Crystal) Cho
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python, C, C++ and Java
 - 💞️ I’m looking for more 
