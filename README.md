@@ -9,4 +9,5 @@ crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![crystal031230](http://mazassumnida.wtf/api/generate_badge?boj={crystal11111})](https://solved.ac/{crystal11111})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={crystal11111})](https://solved.ac/{crystal11111})
