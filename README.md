@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soojeong(Crystal) Cho
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python, C, C++ and Java
+- 👀 I’m interested in Bioinformatics and AI
+- 🌱 I’m currently learning python, C, Java, discrete mathematics  
 - 💞️ I’m looking for more programming experience
 - 📫 Contact via soojeon1@ualberta.ca
 
