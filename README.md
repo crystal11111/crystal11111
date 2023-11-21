@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230)](https://solved.ac/crystal031230/)
-
-[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal11111)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230)](https://solved.ac/crystal031230/) [![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal11111)](https://github.com/anuraghazra/github-readme-stats)
 
 Buy me a cup of coffee? ☺
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)
