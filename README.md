@@ -1,7 +1,7 @@
 <h1>Soojeong(Crystal) Cho</h1>
-- 👀 I’m interested in Bioinformatics and AI
-- 💞️ I’m looking for more programming experience
-- 📫 Contact via soojeon1@ualberta.ca
+<h4>👀 I’m interested in Bioinformatics and AI</h4>
+<h4>💞️ I’m looking for more programming experience</h4>
+<h4>📫 Contact via soojeon1@ualberta.ca</h4>
 
 <!---
 crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h3 align = "center"> Buy me a cup of coffee? ☺ </h3>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="crystal1230" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
