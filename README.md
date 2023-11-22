@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 </div>
 
-<div align="center"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230)(https://solved.ac/crystal031230/)> <img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact)](https://github.com/anuraghazra/github-readme-stats>
+<div align="center"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230> <img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact>
 </div>
 
 <h3 align = "center"> Buy me a cup of coffee? ☺ </h3>
