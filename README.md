@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230)](https://solved.ac/crystal031230/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230)](https://solved.ac/crystal031230/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-Buy me a cup of coffee? ☺
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)
+<h3 align = "center"> Buy me a cup of coffee? ☺ </h3>
+<div align="center">[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)</div>
