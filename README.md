@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 </div>
 <br>
-<div align="center"><a href="https://solved.ac/profile/crystal031230"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230></a> <a href="https://github.com/crystal11111?tab=repositories"><img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact&exclude_repo=Portfolio&langs_count=6></a>
+<div align="center"><a href="https://solved.ac/profile/crystal031230"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230></a> <a href="https://github.com/crystal11111?tab=repositories"><img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact&langs_count=8></a>
 </div>
 
 <h3 align = "center"> Support my coding journey ☺ </h3>
