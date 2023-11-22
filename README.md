@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soojeong(Crystal) Cho
+#Soojeong(Crystal) Cho
 - 👀 I’m interested in Bioinformatics and AI
 - 💞️ I’m looking for more programming experience
 - 📫 Contact via soojeon1@ualberta.ca
@@ -7,7 +7,7 @@
 crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Languages and Skills I can use:
+<h3>Languages and Skills I can use:</h3>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h3 align = "center"> Buy me a cup of coffee? ☺ </h3>
-<div align="center"><img align="center" src = [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)></div>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/crystal1230)
