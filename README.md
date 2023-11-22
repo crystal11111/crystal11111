@@ -1,7 +1,7 @@
 <h1>Soojeong(Crystal) Cho</h1>
-<h4>👀 I’m interested in Bioinformatics and AI</h4>
-<h4>💞️ I’m looking for more programming experience</h4>
-<h4>📫 Contact via soojeon1@ualberta.ca</h4>
+<p>👀 I’m interested in Bioinformatics and AI<p>
+<p>💞️ I’m looking for more programming experience</p>
+<p>📫 Contact via soojeon1@ualberta.ca</p>
 
 <!---
 crystal11111/crystal11111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230> <img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact>
 </div>
 
-<h3 align = "center"> Buy me a cup of coffee? ☺ </h3>
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="crystal1230" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<h3 align = "center"> Support my coding journey ☺ </h3>
+<a href="https://www.buymeacoffee.com/crystal1230"><img src="https://img.buymeacoffee.com/button-api/?text=Support my journey :)&emoji=🌱&slug=crystal1230&button_colour=abd1de&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
