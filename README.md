@@ -1,5 +1,6 @@
 <h1>Soojeong(Crystal) Cho</h1>
-<p>Hello! My name is Soojeong Cho and my preferred name is Crystal</p>
+<p>Hello!</p>
+<p>My name is Soojeong Cho and my preferred name is Crystal.</p>
 <p>👀 I’m interested in Data Anaylsis, Bioinformatics, and AI<p>
 <p>💞️ I’m looking for more programming experience</p>
 <p>📫 Contact via soojeon1@ualberta.ca</p>
