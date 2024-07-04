@@ -1,8 +1,9 @@
 <h1>Soojeong(Crystal) Cho</h1>
 <p>Hello!</p>
 <p>My name is Soojeong Cho and my preferred name is Crystal.</p>
-<p>👀 I’m interested in Data Anaylsis, Bioinformatics, and AI<p>
-<p>💞️ I’m looking for more programming experience</p>
+<p>I'm currently studying Computnig Science and Bioinformatics at University of Alberta, with an expected graduation date of June 2025.</p>
+<p>👀 I’m interested in Software Engineering, Data Science, Bioinformatics, and AI<p>
+<p>💞️ I’m looking for more programming experience and opportunities to connect. </p>
 <p>📫 Contact via soojeon1@ualberta.ca</p>
 
 <!---
