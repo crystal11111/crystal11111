@@ -28,8 +28,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align="center"><a href="https://solved.ac/profile/crystal031230"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=crystal031230></a> <a href="https://github.com/crystal11111?tab=repositories"><img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=crystal11111&layout=compact&langs_count=8&exclude_repo=Digital_Image_Processing></a>
 </div>
-
-<h3 align = "center"> Support my coding journey ☺ </h3>
-<div align="center">
-	<a href="https://www.buymeacoffee.com/crystal1230"><img src="https://img.buymeacoffee.com/button-api/?text=Support my journey :)&emoji=🌱&slug=crystal1230&button_colour=abd1de&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
