@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soojeong-cho-441827181">
+<a href="https://www.linkedin.com/in/soojeongcho1230/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:soojeon1@ualberta.ca">
